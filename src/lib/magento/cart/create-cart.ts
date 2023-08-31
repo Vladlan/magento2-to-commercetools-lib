@@ -1,4 +1,4 @@
-import { MAGENTO_GUEST_CARTS_URL } from '../../constants'
+import { MAGENTO_GUEST_CARTS_URL } from '../../../constants'
 
 export async function createCart(): Promise<string> {
   try {

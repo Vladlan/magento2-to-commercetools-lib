@@ -1,4 +1,4 @@
-import { MAGENTO_GUEST_CARTS_ITEM_URL } from '../../constants'
+import { MAGENTO_GUEST_CARTS_ITEM_URL } from '../../../constants'
 
 export async function changeCartItem(
   cartId: string | number,

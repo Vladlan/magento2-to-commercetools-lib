@@ -25,7 +25,7 @@ export async function getCategoryProducts(
 
   const searchCriteria = getProductSearchCriteria(id, configurableOnly)
   MAGENTO_PRODUCTS_SEARCH_URL.search = qs.stringify(searchCriteria)
-  const products = await fetch(MAGENTO_PRODUCTS_SEARCH_URL)
+  const products = await fetch(MAGENTO_PRODUCTS_SEARCH_URL.toString())
     .then(async (r) => {
       if (!r.ok) {
         throw new Error(`Failed to get category ${id} products`)

@@ -26,7 +26,7 @@ export async function getProductTypePossibleAttributes(leafCategory: any) {
   const searchCriteria = getProductSearchCriteria(productCategoryId)
   MAGENTO_PRODUCTS_SEARCH_URL.search = qs.stringify(searchCriteria)
 
-  const attributesMap = await fetch(MAGENTO_PRODUCTS_SEARCH_URL)
+  const attributesMap = await fetch(MAGENTO_PRODUCTS_SEARCH_URL.toString())
     .then(async (r) => {
       if (!r.ok) {
         throw new Error('Failed to fetch data')
