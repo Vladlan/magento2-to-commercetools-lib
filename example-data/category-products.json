@@ -1,0 +1,2019 @@
+{
+  "items": [
+    {
+      "id": 1220,
+      "sku": "WJ01",
+      "name": "Stellar Solar Jacket",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp",
+          "value": "79.990000"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "stellar-solar-jacket"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Beat the heat and protect yourself from sunrays with the Stellar Solar Jacket. It's loaded with all the engineered features you need for an intense, safe outdoor workout: 100% UV protection, a breathable perforated construction, and advanced moisture-wicking technology.</p>\n<p>&bull; Loose fit. <br />&bull; Reflectivity. <br />&bull; Flat seams. <br />&bull; Machine wash/dry.<br />&bull; Deep pink jacket with front panel rouching</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "117,124,128"
+        },
+        {
+          "attribute_code": "material",
+          "value": "142,158,144"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "201,205,207,209"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "1"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "1"
+        },
+        {
+          "attribute_code": "new",
+          "value": "1"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 171,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Blue",
+            "Red",
+            "Yellow"
+          ]
+        },
+        {
+          "id": 170,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2064,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "id": 2065,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj01-red_alt1_1.jpg"
+        },
+        {
+          "id": 2066,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj01-red_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Blue",
+        "Red",
+        "Yellow"
+      ],
+      "Size": [
+        "S",
+        "M",
+        "L"
+      ]
+    },
+    {
+      "id": 1236,
+      "sku": "WJ02",
+      "name": "Josie Yoga Jacket",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj02-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj02-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj02-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp",
+          "value": "59.990000"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "josie-yoga-jacket"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "30",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>When your near future includes yoga, the cozy comfort of the Josie Yoga Jacket gets your mind and body ready. Stretchy CoolTech&trade; fabric with zipper pockets makes this jacket the right gear for studio time or teatime after.</p>\n<p>&bull; Slate rouched neck pullover.<br />&bull; Moisture-wicking fabric.<br />&bull; Hidden zipper.<br />&bull; Mesh armpit venting.<br />&bull; Dropped rear hem.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "117,136,119,124"
+        },
+        {
+          "attribute_code": "material",
+          "value": "38,150,155"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "204,205,207"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "1"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 173,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Black",
+            "Blue",
+            "Gray"
+          ]
+        },
+        {
+          "id": 172,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2092,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj02-gray_main_1.jpg"
+        },
+        {
+          "id": 2093,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj02-gray_alt1_1.jpg"
+        },
+        {
+          "id": 2094,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj02-gray_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Black",
+        "Blue",
+        "Gray"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1252,
+      "sku": "WJ03",
+      "name": "Augusta Pullover Jacket",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj03-red_main_2.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj03-red_main_2.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj03-red_main_2.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp",
+          "value": "59.990000"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "augusta-pullover-jacket"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>It's hard to be uncomfortable in the Augusta Pullover Jacket with &frac14; zip. With an incredibly soft fleece lining and textured outer fabric, it offers reliable protection from the elements and a cozy fit as well.</p>\n<p>&bull; Pink half-zip pullover. <br />&bull; Front pouch pockets. <br />&bull; Fold-down collar.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "117,136,124,125,127"
+        },
+        {
+          "attribute_code": "material",
+          "value": "144,38"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "201,203,204,205,207"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 175,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Blue",
+            "Orange",
+            "Red"
+          ]
+        },
+        {
+          "id": 174,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2120,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj03-red_main_2.jpg"
+        },
+        {
+          "id": 2121,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj03-red_alt1_2.jpg"
+        },
+        {
+          "id": 2122,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj03-red_back_2.jpg"
+        }
+      ],
+      "Color": [
+        "Blue",
+        "Orange",
+        "Red"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1268,
+      "sku": "WJ04",
+      "name": "Ingrid Running Jacket",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj04-white_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj04-white_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj04-white_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp",
+          "value": "89.990000"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "ingrid-running-jacket"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "35",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>The Ingrid Running Jacket combines sleek design and high performance with slim, contoured fit and moisture-wicking fabric. It features a full-zip construction and a collared neck to keep the elements out and body heat in. <br />&bull; Slim fit. <br />&bull; Moisture-wicking fabric. <br />&bull; Two side pockets. <br />&bull; Zippered pocket at back waist. <br />&bull; Machine wash/dry.<br />&bull; Ivory specked full zip</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "117,119,128"
+        },
+        {
+          "attribute_code": "material",
+          "value": "37,38,155"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "203,207,209,210"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "1"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "1"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 177,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Orange",
+            "Red",
+            "White"
+          ]
+        },
+        {
+          "id": 176,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2153,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj04-white_main_1.jpg"
+        },
+        {
+          "id": 2154,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj04-white_alt1_1.jpg"
+        },
+        {
+          "id": 2155,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj04-white_alternate_1.jpg"
+        },
+        {
+          "id": 2156,
+          "media_type": "image",
+          "label": "",
+          "position": 4,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj04-white_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Orange",
+        "Red",
+        "White"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1284,
+      "sku": "WJ05",
+      "name": "Riona Full Zip Jacket",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj05-brown_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj05-brown_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj05-brown_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp",
+          "value": "62.990000"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "riona-full-zip-jacket"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>The Riona Basic Zip Jacket makes the perfect extra layer for cold-weather workouts. It features amazing breathability and moisture management, but full-length zipper lets you moderate your core temperature even more.</p>\n<p>&bull; Brown heather full zip rouched jacket.<br />&bull; Side hand pockets for extra storage.<br />&bull; High collar.<br />&bull; Thick cuffs for extra coverage.<br />&bull; Durable, shape retention material to longer wear.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "116,117,124,125,128"
+        },
+        {
+          "attribute_code": "material",
+          "value": "158,147,148"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "202,203,207,210"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 179,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Brown",
+            "Green",
+            "Red"
+          ]
+        },
+        {
+          "id": 178,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2182,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj05-brown_main_1.jpg"
+        },
+        {
+          "id": 2183,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj05-brown_alt1_1.jpg"
+        },
+        {
+          "id": 2184,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj05-brown_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Brown",
+        "Green",
+        "Red"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1300,
+      "sku": "WJ07",
+      "name": "Inez Full Zip Jacket",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj07-purple_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj07-purple_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj07-purple_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp",
+          "value": "62.990000"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "inez-full-zip-jacket"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>The Inez Full Zip jacket is more than a cute layer. It's a full-on tech wonder you'll use for outdoor, pre and post workout. You'll love how the highlighted zipper and sleeve safety trim protect and catch looks.</p>\n<p>&bull; Purple heather inset full zip jacket.<br />&bull; Full zip hoodie.<br />&bull; Contrast binding along the zipper, hood and sleeves.<br />&bull; Inseam pockets for storage.<br />&bull; Thumbholes for comfortable fit.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "116,117,124,128"
+        },
+        {
+          "attribute_code": "material",
+          "value": "37,38,150,155"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": ""
+        },
+        {
+          "attribute_code": "climate",
+          "value": "203,205,206,207,209"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 181,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Orange",
+            "Purple",
+            "Red"
+          ]
+        },
+        {
+          "id": 180,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2210,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj07-purple_main_1.jpg"
+        },
+        {
+          "id": 2211,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj07-purple_alt1_1.jpg"
+        },
+        {
+          "id": 2212,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj07-purple_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Orange",
+        "Purple",
+        "Red"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1316,
+      "sku": "WJ08",
+      "name": "Adrienne Trek Jacket",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj08-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj08-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj08-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp",
+          "value": "59.990000"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "adrienne-trek-jacket"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "30",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>You're ready for a cross-country jog or a coffee on the patio in the Adrienne Trek Jacket. Its style is unique with stand collar and drawstrings, and it fits like a jacket should.</p>\n<p>&bull; gray 1/4 zip pullover.<br />&bull; Comfortable, relaxed fit.<br />&bull; Front zip for venting.<br />&bull; Spacious, kangaroo pockets.<br />&bull; 27\" body length.<br />&bull; 95% Organic Cotton / 5% Spandex.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "117,119,122,123,125,127"
+        },
+        {
+          "attribute_code": "material",
+          "value": "33,150"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "201,203,205,207,210"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "1"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "1"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "1"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 183,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Gray",
+            "Orange",
+            "Purple"
+          ]
+        },
+        {
+          "id": 182,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2243,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj08-gray_main_1.jpg"
+        },
+        {
+          "id": 2244,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj08-gray_alt1_1.jpg"
+        },
+        {
+          "id": 2245,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj08-gray_alternate_1.jpg"
+        },
+        {
+          "id": 2246,
+          "media_type": "image",
+          "label": "",
+          "position": 4,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj08-gray_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Gray",
+        "Orange",
+        "Purple"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1332,
+      "sku": "WJ09",
+      "name": "Jade Yoga Jacket",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj09-green_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj09-green_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj09-green_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp",
+          "value": "34.990000"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "jade-yoga-jacket"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p><br />If only all your other jackets were as comfortable as the relaxed-fit Jade Yoga Jacket, perfect for use during stretching, biking to and from studio or strolling on breezy fall days.</p>\n<p>&bull; Seafoam 1/4 zip pullover with purple stitching.<br />&bull; Lightweight, quick-drying, water-resistant construction.<br />&bull; Shirred details at front and back for a feminine look.<br />&bull; Hood collapses into collar.<br />&bull; Mesh liner for breathability.<br />&bull; Front zip pockets.<br />&bull; Hem cinches at sideseam.<br />&bull; 100% Polyester.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "117,119,124,127"
+        },
+        {
+          "attribute_code": "material",
+          "value": "38"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "203,205,207,209"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "1"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "1"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 185,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Blue",
+            "Gray",
+            "Green"
+          ]
+        },
+        {
+          "id": 184,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2272,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj09-green_main_1.jpg"
+        },
+        {
+          "id": 2273,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj09-green_alt1_1.jpg"
+        },
+        {
+          "id": 2274,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj09-green_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Blue",
+        "Gray",
+        "Green"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1348,
+      "sku": "WJ10",
+      "name": "Nadia Elements Shell",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj10-yellow_main_2.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj10-yellow_main_2.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj10-yellow_main_2.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp",
+          "value": "72.990000"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "nadia-elements-shell"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "35",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Protect yourself from wind and rain in the stylish Nadia Elements Shell. It repels water using hydro-resistant fabric, with fleece lining that adds a touch of warmth. It's finished with bold contrast zippers, adjustable cuffs and a hood.</p>\n<p>&bull; Zippered front. <br />&bull; Zippered side pockets. <br />&bull; Drawstring-adjustable waist and hood. <br />&bull; Machine wash/line dry.<br />&bull; Light blue 1/4 zip pullover.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "116,117,122,123,125,128"
+        },
+        {
+          "attribute_code": "material",
+          "value": "37,38,155"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "203,205,206,207,209"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "1"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "1"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 187,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Black",
+            "Orange",
+            "Yellow"
+          ]
+        },
+        {
+          "id": 186,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2300,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj10-yellow_main_2.jpg"
+        },
+        {
+          "id": 2301,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj10-yellow_alt1_2.jpg"
+        },
+        {
+          "id": 2302,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj10-yellow_back_2.jpg"
+        }
+      ],
+      "Color": [
+        "Black",
+        "Orange",
+        "Yellow"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1364,
+      "sku": "WJ11",
+      "name": "Neve Studio Dance Jacket",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj11-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj11-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj11-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp",
+          "value": "72.990000"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "neve-studio-dance-jacket"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>If you're constantly on the move, the Neve Studio Dance Jacket is for you. It's not just for dance, either, with a tight fit that works as a mid-layer. The reversible design makes it even more versatile.</p>\n<p>&bull; Bright blue 1/4 zip pullover.<br />&bull; CoolTech&trade; liner is sweat-wicking.<br />&bull; Sleeve thumbholes.<br />&bull; Zipper garage to protect your chin.<br />&bull; Stretchy collar drawcords.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "117,136,119,124,127,129"
+        },
+        {
+          "attribute_code": "material",
+          "value": "148,36,37,155"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "204,205,207"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "1"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 189,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Black",
+            "Blue",
+            "Orange"
+          ]
+        },
+        {
+          "id": 188,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2328,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj11-blue_main_1.jpg"
+        },
+        {
+          "id": 2329,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj11-blue_alt1_1.jpg"
+        },
+        {
+          "id": 2330,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj11-blue_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Black",
+        "Blue",
+        "Orange"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1380,
+      "sku": "WJ06",
+      "name": "Juno Jacket",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj06-purple_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj06-purple_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj06-purple_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp",
+          "value": "79.990000"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "juno-jacket"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "30",
+            "35",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>On colder-than-comfortable mornings, you'll love warming up in the Juno All-Ways Performanc Jacket, designed to compete with wind and chill. Built-in Cocona&reg; technology aids evaporation, while a special zip placket and stand-up collar keep your neck protected.</p>\n<p>&bull; Adjustable hood.</br>&bull; Fleece-lined, zippered hand pockets.</br>&bull; Thumbhole cuffs.</br>&bull; Full zip.</br>&bull; Mock-neck collar.</br>&bull; Machine wash/dry.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "116,117,121,123,128,129"
+        },
+        {
+          "attribute_code": "material",
+          "value": "142,144"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "202,203,207,209,210"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "1"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "1"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 191,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Blue",
+            "Green",
+            "Purple"
+          ]
+        },
+        {
+          "id": 190,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2356,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj06-purple_main_1.jpg"
+        },
+        {
+          "id": 2357,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj06-purple_alt1_1.jpg"
+        },
+        {
+          "id": 2358,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj06-purple_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Blue",
+        "Green",
+        "Purple"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1396,
+      "sku": "WJ12",
+      "name": "Olivia 1/4 Zip Light Jacket",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj12-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj12-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj12-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp",
+          "value": "79.990000"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "olivia-1-4-zip-light-jacket"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "30",
+            "35",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Running errands or headed to the gym, you just want to be comfortable. The Olivia Light Jacket promises that, plus a laid-back look. This zip-up is designed with shoulder stripes for an athletic touch, and banded waist and contoured seams for a flattering silhouette.</p>\n<p>&bull; Loose fit.</br>&bull; Reflectivity.</br>&bull; Flat seams.</br>&bull; Machine wash/dry.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "117,136,119,124,127"
+        },
+        {
+          "attribute_code": "material",
+          "value": "142,37,33"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "207,208,209"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "1"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "1"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 193,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Black",
+            "Blue",
+            "Purple"
+          ]
+        },
+        {
+          "id": 192,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2384,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj12-blue_main_1.jpg"
+        },
+        {
+          "id": 2385,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj12-blue_alt1_1.jpg"
+        },
+        {
+          "id": 2386,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj12-blue_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Black",
+        "Blue",
+        "Purple"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  ],
+  "total_count": 12,
+  "search_criteria": {
+    "filter_groups": [
+      {
+        "filters": [
+          {
+            "field": "category_id",
+            "value": "23",
+            "condition_type": "eq"
+          },
+          {
+            "field": "type_id",
+            "value": "configurable",
+            "condition_type": "eq"
+          }
+        ]
+      }
+    ],
+    "page_size": 12,
+    "current_page": 1
+  }
+}

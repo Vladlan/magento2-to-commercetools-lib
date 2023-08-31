@@ -1,0 +1,148 @@
+[
+  {
+    "id": "4ead2cb0-2912-4a0e-9775-a4bdc1ff8b06",
+    "key": "default-category",
+    "name": {
+      "en-US": "Default Category"
+    },
+    "slug": {
+      "en-US": "default_category"
+    },
+    "orderHint": "0.890"
+  },
+  {
+    "id": "d0007244-2ef3-4f10-94c3-55f0075dcfd9",
+    "key": "women",
+    "name": {
+      "en-US": "Women"
+    },
+    "slug": {
+      "en-US": "women"
+    },
+    "orderHint": "0.780",
+    "parent": {
+      "typeId": "category",
+      "id": "4ead2cb0-2912-4a0e-9775-a4bdc1ff8b06"
+    }
+  },
+  {
+    "id": "36178946-0117-4f9d-b69c-470f03fa8f70",
+    "key": "tops",
+    "name": {
+      "en-US": "Tops"
+    },
+    "slug": {
+      "en-US": "tops"
+    },
+    "orderHint": "0.690",
+    "parent": {
+      "typeId": "category",
+      "id": "d0007244-2ef3-4f10-94c3-55f0075dcfd9"
+    }
+  },
+  {
+    "id": "2779ec58-4e39-4b16-bdb9-b079dcaac0aa",
+    "key": "jackets",
+    "name": {
+      "en-US": "Jackets"
+    },
+    "slug": {
+      "en-US": "jackets"
+    },
+    "orderHint": "0.590",
+    "parent": {
+      "typeId": "category",
+      "id": "36178946-0117-4f9d-b69c-470f03fa8f70"
+    }
+  },
+  {
+    "id": "17351a2b-e2d2-472c-ac99-c9aaab62618d",
+    "key": "hoodies-&-sweatshirts",
+    "name": {
+      "en-US": "Hoodies & Sweatshirts"
+    },
+    "slug": {
+      "en-US": "hoodies_&_sweatshirts"
+    },
+    "orderHint": "0.580",
+    "parent": {
+      "typeId": "category",
+      "id": "36178946-0117-4f9d-b69c-470f03fa8f70"
+    }
+  },
+  {
+    "id": "b276659e-b0a4-4de5-b84a-d8d83034dd48",
+    "key": "tees",
+    "name": {
+      "en-US": "Tees"
+    },
+    "slug": {
+      "en-US": "tees"
+    },
+    "orderHint": "0.570",
+    "parent": {
+      "typeId": "category",
+      "id": "36178946-0117-4f9d-b69c-470f03fa8f70"
+    }
+  },
+  {
+    "id": "fa4fa7f9-5408-4cf8-936c-8adb67133f07",
+    "key": "bras-&-tanks",
+    "name": {
+      "en-US": "Bras & Tanks"
+    },
+    "slug": {
+      "en-US": "bras_&_tanks"
+    },
+    "orderHint": "0.560",
+    "parent": {
+      "typeId": "category",
+      "id": "36178946-0117-4f9d-b69c-470f03fa8f70"
+    }
+  },
+  {
+    "id": "51bd2a0a-b805-4b3f-9d3a-6d6b4b06fc91",
+    "key": "bottoms",
+    "name": {
+      "en-US": "Bottoms"
+    },
+    "slug": {
+      "en-US": "bottoms"
+    },
+    "orderHint": "0.680",
+    "parent": {
+      "typeId": "category",
+      "id": "d0007244-2ef3-4f10-94c3-55f0075dcfd9"
+    }
+  },
+  {
+    "id": "21b41d33-881a-4ad6-96bc-e8021137da84",
+    "key": "pants",
+    "name": {
+      "en-US": "Pants"
+    },
+    "slug": {
+      "en-US": "pants"
+    },
+    "orderHint": "0.590",
+    "parent": {
+      "typeId": "category",
+      "id": "51bd2a0a-b805-4b3f-9d3a-6d6b4b06fc91"
+    }
+  },
+  {
+    "id": "9a6ef260-dae1-4149-b7f7-9b5c6dacaccd",
+    "key": "shorts",
+    "name": {
+      "en-US": "Shorts"
+    },
+    "slug": {
+      "en-US": "shorts"
+    },
+    "orderHint": "0.580",
+    "parent": {
+      "typeId": "category",
+      "id": "51bd2a0a-b805-4b3f-9d3a-6d6b4b06fc91"
+    }
+  }
+]

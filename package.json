@@ -8,6 +8,7 @@
   "types": "dist/types/index.d.js",
   "scripts": {
     "postinstall": "husky install",
+    "lint:fix": "eslint . --ext .ts --fix --ignore-path .gitignore",
     "prepublishOnly": "pinst --disable",
     "postpublish": "pinst --enable",
     "build": "npm run build:cjs && npm run build:esm && npm run build:types",
@@ -19,7 +20,19 @@
     "package": "npm run build && npm pack",
     "test": "jest --no-cache --runInBand",
     "test:cov": "jest --coverage --no-cache --runInBand",
-    "addscope": "node tools/packagejson name magento2-to-commercetools"
+    "addscope": "node tools/packagejson name magento2-to-commercetools",
+    "cm-create-category": "ts-node scripts/ct-create-category.ts",
+    "cm-create-product-type": "ts-node scripts/ct-create-product-type.ts",
+    "cm-delete-product-type": "ts-node scripts/ct-delete-product-type.ts",
+    "cm-delete-all-product-types": "ts-node scripts/ct-delete-all-product-types.ts",
+    "cm-create-product": "ts-node scripts/ct-create-product.ts",
+    "cm-get-categories": "ts-node scripts/ct-get-categories.ts",
+    "cm-get-products": "ts-node scripts/ct-get-products.ts",
+    "cm-get-product-types": "ts-node scripts/ct-get-product-types.ts",
+    "map-categories": "ts-node scripts/map-magento-categories-to-comtools.ts",
+    "map-product-types": "cross-env NODE_TLS_REJECT_UNAUTHORIZED=0 ts-node scripts/map-magento-active-categories-to-comtools-product-types.ts",
+    "map-products": "cross-env NODE_TLS_REJECT_UNAUTHORIZED=0 ts-node scripts/map-magento-product-to-comtools.ts",
+    "migrate-magento-to-comtools": "cross-env NODE_TLS_REJECT_UNAUTHORIZED=0 ts-node scripts/magento-to-comtools.ts"
   },
   "publishConfig": {
     "access": "public"
@@ -48,11 +61,17 @@
   "bugs": {
     "url": "https://github.com/Vladlan/magento2-to-commercetools-lib/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.400.0",
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1",
+    "qs": "^6.11.2"
+  },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
     "@commitlint/config-conventional": "^13.1.0",
     "@types/jest": "^27.0.1",
+    "@types/qs": "^6.9.8",
     "@typescript-eslint/eslint-plugin": "^4.31.1",
     "@typescript-eslint/parser": "^4.31.1",
     "eslint": "^7.32.0",
@@ -64,6 +83,7 @@
     "prettier": "^2.4.0",
     "ts-jest": "^27.0.5",
     "ts-loader": "^9.2.5",
+    "ts-node": "^10.9.1",
     "typescript": "^4.4.3",
     "webpack": "^5.52.1",
     "webpack-cli": "^4.8.0"

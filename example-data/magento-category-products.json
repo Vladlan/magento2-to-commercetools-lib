@@ -1,0 +1,1930 @@
+{
+  "items": [
+    {
+      "id": 1044,
+      "sku": "WH01",
+      "name": "Mona Pullover Hoodlie",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/h/wh01-green_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/h/wh01-green_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/h/wh01-green_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "mona-pullover-hoodlie"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "24",
+            "8",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "Whether you're after energizing activity or eye-catching apparel, the Mona Pullover is what you want. You'll stay warm and look fashionable, wherever you are.<br /> <br /> &bull; Light green heathered hoodie. <br /> &bull; Long-Sleeve, pullover.<br /> &bull; Long elliptical hem for extra coverage.<br /> &bull; Deep button placket for layering.<br /> &bull; Double rib design.<br /> &bull; Mid layer, mid weight.<br /> &bull; 98% Merino Wool / 2% Spandex"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "136"
+        },
+        {
+          "attribute_code": "material",
+          "value": "158,150"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "201,203,205,207"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "1"
+        },
+        {
+          "attribute_code": "new",
+          "value": "1"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 147,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Green",
+            "Orange",
+            "Purple"
+          ]
+        },
+        {
+          "id": 146,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 1760,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/h/wh01-green_main_1.jpg"
+        },
+        {
+          "id": 1761,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh01-green_alt1_1.jpg"
+        },
+        {
+          "id": 1762,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh01-green_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Green",
+        "Orange",
+        "Purple"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1060,
+      "sku": "WH02",
+      "name": "Hera Pullover Hoodie",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/h/wh02-blue_main_2.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/h/wh02-blue_main_2.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/h/wh02-blue_main_2.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "hera-pullover-hoodie"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "24",
+            "30",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Get ready to rule the studio and dominate the yoga mat in the Hera Pullover Hoodie, a cozy yet classy look for any level of yogi.</p>\n<p>&bull; Teal with purple stiching.<br />&bull; Hoodie pullover.<br />&bull; Snug fit.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "136"
+        },
+        {
+          "attribute_code": "material",
+          "value": "158,37"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "201,203,205,207"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "1"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 149,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Blue",
+            "Green",
+            "Orange"
+          ]
+        },
+        {
+          "id": 148,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 1788,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/h/wh02-blue_main_2.jpg"
+        },
+        {
+          "id": 1789,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh02-blue_alt1_2.jpg"
+        },
+        {
+          "id": 1790,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh02-blue_back_2.jpg"
+        }
+      ],
+      "Color": [
+        "Blue",
+        "Green",
+        "Orange"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1076,
+      "sku": "WH03",
+      "name": "Autumn Pullie",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/h/wh03-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/h/wh03-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/h/wh03-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "autumn-pullie"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "24"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>With ultra-soft fleece fabric and an athletic design, our short-sleeve Autumn Pullie delivers a comfortable fit that makes it an everyday essential. A luxurious roll neck protects you from elements.</p>\n<p>&bull; Cayenne Short-Sleeve roll neck sweatshirt. <br />&bull; Relaxed fit. <br />&bull; Short-Sleeves. <br />&bull; Machine wash/dry.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "136,132"
+        },
+        {
+          "attribute_code": "material",
+          "value": "144,33,38"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "204,205,207"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 151,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Green",
+            "Purple",
+            "Red"
+          ]
+        },
+        {
+          "id": 150,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 1816,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/h/wh03-red_main_1.jpg"
+        },
+        {
+          "id": 1817,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh03-red_alt1_1.jpg"
+        },
+        {
+          "id": 1818,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh03-red_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Green",
+        "Purple",
+        "Red"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1092,
+      "sku": "WH04",
+      "name": "Miko Pullover Hoodie",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/h/wh04-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/h/wh04-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/h/wh04-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "miko-pullover-hoodie"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "24"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>After quality gym time, put on the Miko Pullover Hoody and keep your body warm. You'll find it's fashionable enough for the streets, but comfy enough to relax in at home.</p>\n<p>&bull; Teal two-tone hoodie.<br />&bull; Low scoop neckline.<br />&bull; Adjustable hood drawstrings.<br />&bull; Longer rounded hemline for extra back coverage.<br />&bull; Long-Sleeve style.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "136,132"
+        },
+        {
+          "attribute_code": "material",
+          "value": "146,150"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "201,203,207"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 153,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Blue",
+            "Orange",
+            "Purple"
+          ]
+        },
+        {
+          "id": 152,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 1844,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/h/wh04-blue_main_1.jpg"
+        },
+        {
+          "id": 1845,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh04-blue_alt1_1.jpg"
+        },
+        {
+          "id": 1846,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh04-blue_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Blue",
+        "Orange",
+        "Purple"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1108,
+      "sku": "WH05",
+      "name": "Selene Yoga Hoodie",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/h/wh05-white_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/h/wh05-white_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/h/wh05-white_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "selene-yoga-hoodie"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "24"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>The Selene Yoga Hoodie gets you to and from the studio in semi form-fitted comfort. Snug, sleek contours add fashion to function in this free-moving yoga warm up sweatshirt.</p>\n<p>&bull; Ivory heather full zip 3/4 sleeve hoodie.<br />&bull; Zip pocket at arm for convenient storage.<br />&bull; 24.0\" body length.<br />&bull; 89% Polyester / 11% Spandex.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "128"
+        },
+        {
+          "attribute_code": "material",
+          "value": "38,150"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "204,205,207"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 155,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Orange",
+            "Purple",
+            "White"
+          ]
+        },
+        {
+          "id": 154,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 1867,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/h/wh05-white_main_1.jpg"
+        },
+        {
+          "id": 1868,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh05-white_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Orange",
+        "Purple",
+        "White"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1114,
+      "sku": "WH06",
+      "name": "Daphne Full-Zip Hoodie",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/h/wh06-purple_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/h/wh06-purple_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/h/wh06-purple_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "daphne-full-zip-hoodie"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "24"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>The Daphne Hoodie is an attractive yet rugged layering or outer piece, especially for chilly days en route the studio, doing yardwork or enjoying outdoor recreation.</p>\n<p>&bull; Purple full zip hoodie with pink accents. <br />&bull; Heather texture.<br />&bull; 4-way stretch.<br />&bull; Pre-shrunk.<br />&bull; Hood lined in vegan Sherpa for added warmth.<br />&bull; Ribbed hem on hood and front pouch pocket.<br />&bull; 60% Cotton / 40% Polyester.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "128"
+        },
+        {
+          "attribute_code": "material",
+          "value": "33,38"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "201,202,203,207,209,210"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 157,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Purple"
+          ]
+        },
+        {
+          "id": 156,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 1884,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/h/wh06-purple_main_1.jpg"
+        },
+        {
+          "id": 1885,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh06-purple_alt1_1.jpg"
+        },
+        {
+          "id": 1886,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh06-purple_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Purple"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1130,
+      "sku": "WH07",
+      "name": "Phoebe Zipper Sweatshirt",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/h/wh07-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/h/wh07-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/h/wh07-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "phoebe-zipper-sweatshirt"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "24",
+            "8",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>A sophisticated layer of warmth awaits you in our full-zip sweatshirt jacket. You'll reach for this one in any season to enjoy its sturdy exterior and plush interior.</p>\n<p>&bull; Gray full zip hoodie with yellow detail.<br />&bull; Hand-warmer pockets. <br />&bull; Zip MP3 pocket with outlet for earphones wire. <br />&bull; Polyester/cotton. <br />&bull; Washable.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "132,128"
+        },
+        {
+          "attribute_code": "material",
+          "value": "33,38"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "203,204,205"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "1"
+        },
+        {
+          "attribute_code": "new",
+          "value": "1"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 159,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Gray",
+            "Purple",
+            "White"
+          ]
+        },
+        {
+          "id": 158,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 1912,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/h/wh07-gray_main_1.jpg"
+        },
+        {
+          "id": 1913,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh07-gray_alt1_1.jpg"
+        },
+        {
+          "id": 1914,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh07-gray_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Gray",
+        "Purple",
+        "White"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1146,
+      "sku": "WH08",
+      "name": "Cassia Funnel Sweatshirt",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/h/wh08-white_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/h/wh08-white_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/h/wh08-white_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "cassia-funnel-sweatshirt"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "24",
+            "30",
+            "35",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>The casual Cassia Funnel Sweatshirt sports front angled pockets and a drawstring stretch funnel hoodie. A cowl front neck pairs with a tagless label at back neck.</p>\n<p>&bull; White full zip hoodie with gray detail.<br />&bull; 65% Cotton/28% Nylon/7% Spandex.<br />&bull; Front slash pockets.<br />&bull; Tagless label at back neck.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "128"
+        },
+        {
+          "attribute_code": "material",
+          "value": "37,33,150"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "201,203,204,205,207"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "1"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "1"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 161,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Orange",
+            "Purple",
+            "White"
+          ]
+        },
+        {
+          "id": 160,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 1945,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/h/wh08-white_main_1.jpg"
+        },
+        {
+          "id": 1946,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh08-white_alt1_1.jpg"
+        },
+        {
+          "id": 1947,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh08-white_alternate_1.jpg"
+        },
+        {
+          "id": 1948,
+          "media_type": "image",
+          "label": "",
+          "position": 4,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh08-white_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Orange",
+        "Purple",
+        "White"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1162,
+      "sku": "WH09",
+      "name": "Ariel Roll Sleeve Sweatshirt",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/h/wh09-purple_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/h/wh09-purple_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/h/wh09-purple_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "ariel-roll-sleeve-sweatshirt"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "24",
+            "36",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Soft, sleek and subtle, the Ariel Roll Sleeve Sweatshirt is a nuanced fitness garment for all occasions. It works equally well as a workout piece or in a casual social setting.</p>\n<p>&bull; Purple two-tone lightweight hoodie. <br />&bull; 100% cotton.<br />&bull; Adjustable roll sleeves for Long-Sleeve or 3/4 sleeve.<br />&bull; Casual, comfy piece for running errands or weekend activities.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "136"
+        },
+        {
+          "attribute_code": "material",
+          "value": "33"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": ""
+        },
+        {
+          "attribute_code": "climate",
+          "value": "204,205,207,208"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "1"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 163,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Green",
+            "Purple",
+            "Red"
+          ]
+        },
+        {
+          "id": 162,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 1974,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/h/wh09-purple_main_1.jpg"
+        },
+        {
+          "id": 1975,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh09-purple_alt1_1.jpg"
+        },
+        {
+          "id": 1976,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh09-purple_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Green",
+        "Purple",
+        "Red"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1178,
+      "sku": "WH10",
+      "name": "Helena Hooded Fleece",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/h/wh10-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/h/wh10-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/h/wh10-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "helena-hooded-fleece"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "24",
+            "8",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Wear this hoodie after the gym or before a chilly weather bike ride. Either way, this versatile sweatshirt offers an effortlessly appealing silhouette and a super-comfy fit. Smooth, stretchy fabric creates flattering shape, while the full-zip placket and hood help block gusty winds.</p>\n<p>Full zip. <br />Banded cuffs and waist. <br />Front pockets. <br />Machine wash/dry.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "128"
+        },
+        {
+          "attribute_code": "material",
+          "value": "33,38,150"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "203,207"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "1"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 165,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Blue",
+            "Gray",
+            "Yellow"
+          ]
+        },
+        {
+          "id": 164,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2002,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/h/wh10-gray_main_1.jpg"
+        },
+        {
+          "id": 2003,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh10-gray_alt1_1.jpg"
+        },
+        {
+          "id": 2004,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh10-gray_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Blue",
+        "Gray",
+        "Yellow"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1194,
+      "sku": "WH11",
+      "name": "Eos V-Neck Hoodie",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/h/wh11-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/h/wh11-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/h/wh11-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "eos-v-neck-hoodie"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "24",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Getting chilly before class starts? Wear the Eos on your way to and from yoga for a cute and cozy warmup piece. Reach for its reliable comfort and enjoy a super-soft blend of fabrics finished in sporty style that includes a hidden kangaroo pocket.</p>\n<p>Semi-fitted. <br />Long-Sleeve. <br />Machine wash/line dry.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "136,132"
+        },
+        {
+          "attribute_code": "material",
+          "value": "144,38,150"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "203,204,205"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "0"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "1"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 167,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Blue",
+            "Green",
+            "Orange"
+          ]
+        },
+        {
+          "id": 166,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2025,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/h/wh11-blue_main_1.jpg"
+        },
+        {
+          "id": 2026,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh11-blue_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Blue",
+        "Green",
+        "Orange"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 1210,
+      "sku": "WH12",
+      "name": "Circe Hooded Ice Fleece",
+      "type_id": "configurable",
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/h/wh12-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/h/wh12-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/h/wh12-gray_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "circe-hooded-ice-fleece"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "24",
+            "35",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Keep shivers at bay with the Circe Hooded Ice Fleece. Ultra-thick, high-pile fleece traps your body heat and keeps cold outside. The drawstring hood and ribbed details add extra coziness and touches of classic style. Its relaxed fit is loose enough to layer comfortably over your shirt.</p>\n<p>Full-zip front. <br />Three-panel hood. <br />Flatlock seams throughout. <br />Welt hand pockets. <br />Machine wash/dry.</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "132,128"
+        },
+        {
+          "attribute_code": "material",
+          "value": "144,155"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "202,203,210"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "1"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "1"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "0"
+        },
+        {
+          "attribute_code": "new",
+          "value": "0"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ],
+      "configurable_product_options": [
+        {
+          "id": 169,
+          "attribute_id": "93",
+          "label": "Color",
+          "values": [
+            "Gray",
+            "Green",
+            "Purple"
+          ]
+        },
+        {
+          "id": 168,
+          "attribute_id": "144",
+          "label": "Size",
+          "values": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "media_gallery_entries": [
+        {
+          "id": 2047,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/h/wh12-gray_main_1.jpg"
+        },
+        {
+          "id": 2048,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/h/wh12-gray_back_1.jpg"
+        }
+      ],
+      "Color": [
+        "Gray",
+        "Green",
+        "Purple"
+      ],
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  ],
+  "total_count": 12,
+  "search_criteria": {
+    "filter_groups": [
+      {
+        "filters": [
+          {
+            "field": "category_id",
+            "value": "24",
+            "condition_type": "eq"
+          },
+          {
+            "field": "type_id",
+            "value": "configurable",
+            "condition_type": "eq"
+          }
+        ]
+      }
+    ],
+    "page_size": 12,
+    "current_page": 1
+  }
+}

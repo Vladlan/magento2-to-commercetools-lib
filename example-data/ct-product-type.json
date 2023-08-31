@@ -1,0 +1,174 @@
+{
+  "id": "1b321782-6daf-4829-bcce-eae3357a5d93",
+  "name": "Jackets",
+  "key": "jackets",
+  "description": "Jackets",
+  "attributes": [
+    {
+      "name": "Color",
+      "label": {
+        "en-US": "Color"
+      },
+      "inputTip": {
+        "en-US": "Color"
+      },
+      "isRequired": true,
+      "type": {
+        "name": "enum",
+        "values": [
+          {
+            "key": "Black",
+            "label": "Black"
+          },
+          {
+            "key": "Blue",
+            "label": "Blue"
+          },
+          {
+            "key": "Brown",
+            "label": "Brown"
+          },
+          {
+            "key": "Gray",
+            "label": "Gray"
+          },
+          {
+            "key": "Green",
+            "label": "Green"
+          },
+          {
+            "key": "Lavender",
+            "label": "Lavender"
+          },
+          {
+            "key": "Multi",
+            "label": "Multi"
+          },
+          {
+            "key": "Orange",
+            "label": "Orange"
+          },
+          {
+            "key": "Purple",
+            "label": "Purple"
+          },
+          {
+            "key": "Red",
+            "label": "Red"
+          },
+          {
+            "key": "White",
+            "label": "White"
+          },
+          {
+            "key": "Yellow",
+            "label": "Yellow"
+          }
+        ]
+      },
+      "attributeConstraint": "None",
+      "isSearchable": true,
+      "inputHint": "SingleLine",
+      "displayGroup": "Other"
+    },
+    {
+      "name": "Size",
+      "label": {
+        "en-US": "Size"
+      },
+      "inputTip": {
+        "en-US": "Size"
+      },
+      "isRequired": true,
+      "type": {
+        "name": "enum",
+        "values": [
+          {
+            "key": "55 cm",
+            "label": "55 cm"
+          },
+          {
+            "key": "65 cm",
+            "label": "65 cm"
+          },
+          {
+            "key": "75 cm",
+            "label": "75 cm"
+          },
+          {
+            "key": "6 foot",
+            "label": "6 foot"
+          },
+          {
+            "key": "8 foot",
+            "label": "8 foot"
+          },
+          {
+            "key": "10 foot",
+            "label": "10 foot"
+          },
+          {
+            "key": "XS",
+            "label": "XS"
+          },
+          {
+            "key": "S",
+            "label": "S"
+          },
+          {
+            "key": "M",
+            "label": "M"
+          },
+          {
+            "key": "L",
+            "label": "L"
+          },
+          {
+            "key": "XL",
+            "label": "XL"
+          },
+          {
+            "key": "28",
+            "label": "28"
+          },
+          {
+            "key": "29",
+            "label": "29"
+          },
+          {
+            "key": "30",
+            "label": "30"
+          },
+          {
+            "key": "31",
+            "label": "31"
+          },
+          {
+            "key": "32",
+            "label": "32"
+          },
+          {
+            "key": "33",
+            "label": "33"
+          },
+          {
+            "key": "34",
+            "label": "34"
+          },
+          {
+            "key": "36",
+            "label": "36"
+          },
+          {
+            "key": "38",
+            "label": "38"
+          }
+        ]
+      },
+      "attributeConstraint": "None",
+      "isSearchable": true,
+      "inputHint": "SingleLine",
+      "displayGroup": "Other"
+    }
+  ]
+}

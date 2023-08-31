@@ -1,0 +1,11 @@
+{
+  "id": "87d60846-2372-49e4-ab4b-e951a85a3605",
+  "key": "default-category",
+  "name": {
+    "en-US": "Default Category"
+  },
+  "slug": {
+    "en-US": "default_category"
+  },
+  "orderHint": "0.890"
+}

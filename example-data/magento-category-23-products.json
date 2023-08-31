@@ -1,0 +1,1359 @@
+{
+  "items": [
+    {
+      "id": 1211,
+      "sku": "WJ01-S-Blue",
+      "name": "Stellar Solar Jacket-S-Blue",
+      "attribute_set_id": 9,
+      "price": 75,
+      "status": 1,
+      "visibility": 1,
+      "type_id": "simple",
+      "created_at": "2023-06-26 17:06:43",
+      "updated_at": "2023-06-26 17:06:43",
+      "weight": 1,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -1,
+            "category_id": "23"
+          },
+          {
+            "position": -140,
+            "category_id": "8"
+          },
+          {
+            "position": -114,
+            "category_id": "34"
+          },
+          {
+            "position": -510,
+            "category_id": "2"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 2049,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj01-blue_main_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj01-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj01-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj01-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "stellar-solar-jacket-s-blue"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Beat the heat and protect yourself from sunrays with the Stellar Solar Jacket. It's loaded with all the engineered features you need for an intense, safe outdoor workout: 100% UV protection, a breathable perforated construction, and advanced moisture-wicking technology.</p>\n<p>&bull; Loose fit. <br />&bull; Reflectivity. <br />&bull; Flat seams. <br />&bull; Machine wash/dry.<br />&bull; Deep pink jacket with front panel rouching</p>"
+        },
+        {
+          "attribute_code": "size",
+          "value": "167"
+        },
+        {
+          "attribute_code": "color",
+          "value": "50"
+        }
+      ]
+    },
+    {
+      "id": 1212,
+      "sku": "WJ01-S-Red",
+      "name": "Stellar Solar Jacket-S-Red",
+      "attribute_set_id": 9,
+      "price": 75,
+      "status": 1,
+      "visibility": 1,
+      "type_id": "simple",
+      "created_at": "2023-06-26 17:06:43",
+      "updated_at": "2023-06-26 17:06:43",
+      "weight": 1,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -2,
+            "category_id": "23"
+          },
+          {
+            "position": -141,
+            "category_id": "8"
+          },
+          {
+            "position": -115,
+            "category_id": "34"
+          },
+          {
+            "position": -511,
+            "category_id": "2"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 2050,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "id": 2051,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj01-red_alt1_1.jpg"
+        },
+        {
+          "id": 2052,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj01-red_back_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "stellar-solar-jacket-s-red"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Beat the heat and protect yourself from sunrays with the Stellar Solar Jacket. It's loaded with all the engineered features you need for an intense, safe outdoor workout: 100% UV protection, a breathable perforated construction, and advanced moisture-wicking technology.</p>\n<p>&bull; Loose fit. <br />&bull; Reflectivity. <br />&bull; Flat seams. <br />&bull; Machine wash/dry.<br />&bull; Deep pink jacket with front panel rouching</p>"
+        },
+        {
+          "attribute_code": "size",
+          "value": "167"
+        },
+        {
+          "attribute_code": "color",
+          "value": "58"
+        }
+      ]
+    },
+    {
+      "id": 1213,
+      "sku": "WJ01-S-Yellow",
+      "name": "Stellar Solar Jacket-S-Yellow",
+      "attribute_set_id": 9,
+      "price": 75,
+      "status": 1,
+      "visibility": 1,
+      "type_id": "simple",
+      "created_at": "2023-06-26 17:06:43",
+      "updated_at": "2023-06-26 17:06:43",
+      "weight": 1,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -3,
+            "category_id": "23"
+          },
+          {
+            "position": -142,
+            "category_id": "8"
+          },
+          {
+            "position": -116,
+            "category_id": "34"
+          },
+          {
+            "position": -512,
+            "category_id": "2"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 2053,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj01-yellow_main_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj01-yellow_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj01-yellow_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj01-yellow_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "stellar-solar-jacket-s-yellow"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Beat the heat and protect yourself from sunrays with the Stellar Solar Jacket. It's loaded with all the engineered features you need for an intense, safe outdoor workout: 100% UV protection, a breathable perforated construction, and advanced moisture-wicking technology.</p>\n<p>&bull; Loose fit. <br />&bull; Reflectivity. <br />&bull; Flat seams. <br />&bull; Machine wash/dry.<br />&bull; Deep pink jacket with front panel rouching</p>"
+        },
+        {
+          "attribute_code": "size",
+          "value": "167"
+        },
+        {
+          "attribute_code": "color",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "id": 1214,
+      "sku": "WJ01-M-Blue",
+      "name": "Stellar Solar Jacket-M-Blue",
+      "attribute_set_id": 9,
+      "price": 75,
+      "status": 1,
+      "visibility": 1,
+      "type_id": "simple",
+      "created_at": "2023-06-26 17:06:43",
+      "updated_at": "2023-06-26 17:06:43",
+      "weight": 1,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -4,
+            "category_id": "23"
+          },
+          {
+            "position": -143,
+            "category_id": "8"
+          },
+          {
+            "position": -117,
+            "category_id": "34"
+          },
+          {
+            "position": -513,
+            "category_id": "2"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 2054,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj01-blue_main_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj01-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj01-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj01-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "stellar-solar-jacket-m-blue"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Beat the heat and protect yourself from sunrays with the Stellar Solar Jacket. It's loaded with all the engineered features you need for an intense, safe outdoor workout: 100% UV protection, a breathable perforated construction, and advanced moisture-wicking technology.</p>\n<p>&bull; Loose fit. <br />&bull; Reflectivity. <br />&bull; Flat seams. <br />&bull; Machine wash/dry.<br />&bull; Deep pink jacket with front panel rouching</p>"
+        },
+        {
+          "attribute_code": "size",
+          "value": "168"
+        },
+        {
+          "attribute_code": "color",
+          "value": "50"
+        }
+      ]
+    },
+    {
+      "id": 1215,
+      "sku": "WJ01-M-Red",
+      "name": "Stellar Solar Jacket-M-Red",
+      "attribute_set_id": 9,
+      "price": 75,
+      "status": 1,
+      "visibility": 1,
+      "type_id": "simple",
+      "created_at": "2023-06-26 17:06:43",
+      "updated_at": "2023-06-26 17:06:43",
+      "weight": 1,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -5,
+            "category_id": "23"
+          },
+          {
+            "position": -144,
+            "category_id": "8"
+          },
+          {
+            "position": -118,
+            "category_id": "34"
+          },
+          {
+            "position": -514,
+            "category_id": "2"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 2055,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "id": 2056,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj01-red_alt1_1.jpg"
+        },
+        {
+          "id": 2057,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj01-red_back_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "stellar-solar-jacket-m-red"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Beat the heat and protect yourself from sunrays with the Stellar Solar Jacket. It's loaded with all the engineered features you need for an intense, safe outdoor workout: 100% UV protection, a breathable perforated construction, and advanced moisture-wicking technology.</p>\n<p>&bull; Loose fit. <br />&bull; Reflectivity. <br />&bull; Flat seams. <br />&bull; Machine wash/dry.<br />&bull; Deep pink jacket with front panel rouching</p>"
+        },
+        {
+          "attribute_code": "size",
+          "value": "168"
+        },
+        {
+          "attribute_code": "color",
+          "value": "58"
+        }
+      ]
+    },
+    {
+      "id": 1216,
+      "sku": "WJ01-M-Yellow",
+      "name": "Stellar Solar Jacket-M-Yellow",
+      "attribute_set_id": 9,
+      "price": 75,
+      "status": 1,
+      "visibility": 1,
+      "type_id": "simple",
+      "created_at": "2023-06-26 17:06:43",
+      "updated_at": "2023-06-26 17:06:43",
+      "weight": 1,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -6,
+            "category_id": "23"
+          },
+          {
+            "position": -145,
+            "category_id": "8"
+          },
+          {
+            "position": -119,
+            "category_id": "34"
+          },
+          {
+            "position": -515,
+            "category_id": "2"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 2058,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj01-yellow_main_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj01-yellow_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj01-yellow_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj01-yellow_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "stellar-solar-jacket-m-yellow"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Beat the heat and protect yourself from sunrays with the Stellar Solar Jacket. It's loaded with all the engineered features you need for an intense, safe outdoor workout: 100% UV protection, a breathable perforated construction, and advanced moisture-wicking technology.</p>\n<p>&bull; Loose fit. <br />&bull; Reflectivity. <br />&bull; Flat seams. <br />&bull; Machine wash/dry.<br />&bull; Deep pink jacket with front panel rouching</p>"
+        },
+        {
+          "attribute_code": "size",
+          "value": "168"
+        },
+        {
+          "attribute_code": "color",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "id": 1217,
+      "sku": "WJ01-L-Blue",
+      "name": "Stellar Solar Jacket-L-Blue",
+      "attribute_set_id": 9,
+      "price": 75,
+      "status": 1,
+      "visibility": 1,
+      "type_id": "simple",
+      "created_at": "2023-06-26 17:06:43",
+      "updated_at": "2023-06-26 17:06:43",
+      "weight": 1,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -7,
+            "category_id": "23"
+          },
+          {
+            "position": -146,
+            "category_id": "8"
+          },
+          {
+            "position": -120,
+            "category_id": "34"
+          },
+          {
+            "position": -516,
+            "category_id": "2"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 2059,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj01-blue_main_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj01-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj01-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj01-blue_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "stellar-solar-jacket-l-blue"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Beat the heat and protect yourself from sunrays with the Stellar Solar Jacket. It's loaded with all the engineered features you need for an intense, safe outdoor workout: 100% UV protection, a breathable perforated construction, and advanced moisture-wicking technology.</p>\n<p>&bull; Loose fit. <br />&bull; Reflectivity. <br />&bull; Flat seams. <br />&bull; Machine wash/dry.<br />&bull; Deep pink jacket with front panel rouching</p>"
+        },
+        {
+          "attribute_code": "size",
+          "value": "169"
+        },
+        {
+          "attribute_code": "color",
+          "value": "50"
+        }
+      ]
+    },
+    {
+      "id": 1218,
+      "sku": "WJ01-L-Red",
+      "name": "Stellar Solar Jacket-L-Red",
+      "attribute_set_id": 9,
+      "price": 75,
+      "status": 1,
+      "visibility": 1,
+      "type_id": "simple",
+      "created_at": "2023-06-26 17:06:43",
+      "updated_at": "2023-06-26 17:06:43",
+      "weight": 1,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -8,
+            "category_id": "23"
+          },
+          {
+            "position": -147,
+            "category_id": "8"
+          },
+          {
+            "position": -121,
+            "category_id": "34"
+          },
+          {
+            "position": -517,
+            "category_id": "2"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 2060,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "id": 2061,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj01-red_alt1_1.jpg"
+        },
+        {
+          "id": 2062,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj01-red_back_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "stellar-solar-jacket-l-red"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Beat the heat and protect yourself from sunrays with the Stellar Solar Jacket. It's loaded with all the engineered features you need for an intense, safe outdoor workout: 100% UV protection, a breathable perforated construction, and advanced moisture-wicking technology.</p>\n<p>&bull; Loose fit. <br />&bull; Reflectivity. <br />&bull; Flat seams. <br />&bull; Machine wash/dry.<br />&bull; Deep pink jacket with front panel rouching</p>"
+        },
+        {
+          "attribute_code": "size",
+          "value": "169"
+        },
+        {
+          "attribute_code": "color",
+          "value": "58"
+        }
+      ]
+    },
+    {
+      "id": 1219,
+      "sku": "WJ01-L-Yellow",
+      "name": "Stellar Solar Jacket-L-Yellow",
+      "attribute_set_id": 9,
+      "price": 75,
+      "status": 1,
+      "visibility": 1,
+      "type_id": "simple",
+      "created_at": "2023-06-26 17:06:43",
+      "updated_at": "2023-06-26 17:06:43",
+      "weight": 1,
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -9,
+            "category_id": "23"
+          },
+          {
+            "position": -148,
+            "category_id": "8"
+          },
+          {
+            "position": -122,
+            "category_id": "34"
+          },
+          {
+            "position": -518,
+            "category_id": "2"
+          }
+        ]
+      },
+      "product_links": [],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 2063,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj01-yellow_main_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj01-yellow_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj01-yellow_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj01-yellow_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "stellar-solar-jacket-l-yellow"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Beat the heat and protect yourself from sunrays with the Stellar Solar Jacket. It's loaded with all the engineered features you need for an intense, safe outdoor workout: 100% UV protection, a breathable perforated construction, and advanced moisture-wicking technology.</p>\n<p>&bull; Loose fit. <br />&bull; Reflectivity. <br />&bull; Flat seams. <br />&bull; Machine wash/dry.<br />&bull; Deep pink jacket with front panel rouching</p>"
+        },
+        {
+          "attribute_code": "size",
+          "value": "169"
+        },
+        {
+          "attribute_code": "color",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "id": 1220,
+      "sku": "WJ01",
+      "name": "Stellar Solar Jacket",
+      "attribute_set_id": 9,
+      "price": 0,
+      "status": 1,
+      "visibility": 4,
+      "type_id": "configurable",
+      "created_at": "2023-06-26 17:06:43",
+      "updated_at": "2023-06-26 17:08:10",
+      "extension_attributes": {
+        "website_ids": [
+          1
+        ],
+        "category_links": [
+          {
+            "position": -10,
+            "category_id": "23"
+          },
+          {
+            "position": -149,
+            "category_id": "8"
+          },
+          {
+            "position": -123,
+            "category_id": "34"
+          },
+          {
+            "position": -519,
+            "category_id": "2"
+          }
+        ],
+        "configurable_product_options": [
+          {
+            "id": 171,
+            "attribute_id": "93",
+            "label": "Color",
+            "position": 1,
+            "values": [
+              {
+                "value_index": 50
+              },
+              {
+                "value_index": 58
+              },
+              {
+                "value_index": 60
+              }
+            ],
+            "product_id": 1220
+          },
+          {
+            "id": 170,
+            "attribute_id": "144",
+            "label": "Size",
+            "position": 0,
+            "values": [
+              {
+                "value_index": 167
+              },
+              {
+                "value_index": 168
+              },
+              {
+                "value_index": 169
+              }
+            ],
+            "product_id": 1220
+          }
+        ],
+        "configurable_product_links": [
+          1211,
+          1212,
+          1213,
+          1214,
+          1215,
+          1216,
+          1217,
+          1218,
+          1219
+        ]
+      },
+      "product_links": [
+        {
+          "sku": "WJ01",
+          "link_type": "related",
+          "linked_product_sku": "WH05",
+          "linked_product_type": "configurable",
+          "position": 1
+        },
+        {
+          "sku": "WJ01",
+          "link_type": "related",
+          "linked_product_sku": "WH10",
+          "linked_product_type": "configurable",
+          "position": 2
+        },
+        {
+          "sku": "WJ01",
+          "link_type": "related",
+          "linked_product_sku": "WP01",
+          "linked_product_type": "configurable",
+          "position": 3
+        },
+        {
+          "sku": "WJ01",
+          "link_type": "related",
+          "linked_product_sku": "WP03",
+          "linked_product_type": "configurable",
+          "position": 4
+        },
+        {
+          "sku": "WJ01",
+          "link_type": "crosssell",
+          "linked_product_sku": "24-UG02",
+          "linked_product_type": "simple",
+          "position": 2
+        },
+        {
+          "sku": "WJ01",
+          "link_type": "crosssell",
+          "linked_product_sku": "24-UG05",
+          "linked_product_type": "simple",
+          "position": 4
+        },
+        {
+          "sku": "WJ01",
+          "link_type": "crosssell",
+          "linked_product_sku": "24-WG084",
+          "linked_product_type": "simple",
+          "position": 3
+        },
+        {
+          "sku": "WJ01",
+          "link_type": "crosssell",
+          "linked_product_sku": "24-UG03",
+          "linked_product_type": "simple",
+          "position": 1
+        }
+      ],
+      "options": [],
+      "media_gallery_entries": [
+        {
+          "id": 2064,
+          "media_type": "image",
+          "label": "",
+          "position": 1,
+          "disabled": false,
+          "types": [
+            "image",
+            "small_image",
+            "thumbnail"
+          ],
+          "file": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "id": 2065,
+          "media_type": "image",
+          "label": "",
+          "position": 2,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj01-red_alt1_1.jpg"
+        },
+        {
+          "id": 2066,
+          "media_type": "image",
+          "label": "",
+          "position": 3,
+          "disabled": false,
+          "types": [],
+          "file": "/w/j/wj01-red_back_1.jpg"
+        }
+      ],
+      "tier_prices": [],
+      "custom_attributes": [
+        {
+          "attribute_code": "image",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "small_image",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "thumbnail",
+          "value": "/w/j/wj01-red_main_1.jpg"
+        },
+        {
+          "attribute_code": "options_container",
+          "value": "container2"
+        },
+        {
+          "attribute_code": "msrp",
+          "value": "79.990000"
+        },
+        {
+          "attribute_code": "msrp_display_actual_price_type",
+          "value": "0"
+        },
+        {
+          "attribute_code": "url_key",
+          "value": "stellar-solar-jacket"
+        },
+        {
+          "attribute_code": "required_options",
+          "value": "0"
+        },
+        {
+          "attribute_code": "has_options",
+          "value": "1"
+        },
+        {
+          "attribute_code": "tax_class_id",
+          "value": "2"
+        },
+        {
+          "attribute_code": "category_ids",
+          "value": [
+            "23",
+            "8",
+            "34",
+            "2"
+          ]
+        },
+        {
+          "attribute_code": "description",
+          "value": "<p>Beat the heat and protect yourself from sunrays with the Stellar Solar Jacket. It's loaded with all the engineered features you need for an intense, safe outdoor workout: 100% UV protection, a breathable perforated construction, and advanced moisture-wicking technology.</p>\n<p>&bull; Loose fit. <br />&bull; Reflectivity. <br />&bull; Flat seams. <br />&bull; Machine wash/dry.<br />&bull; Deep pink jacket with front panel rouching</p>"
+        },
+        {
+          "attribute_code": "style_general",
+          "value": "117,124,128"
+        },
+        {
+          "attribute_code": "material",
+          "value": "142,158,144"
+        },
+        {
+          "attribute_code": "pattern",
+          "value": "196"
+        },
+        {
+          "attribute_code": "climate",
+          "value": "201,205,207,209"
+        },
+        {
+          "attribute_code": "eco_collection",
+          "value": "1"
+        },
+        {
+          "attribute_code": "performance_fabric",
+          "value": "0"
+        },
+        {
+          "attribute_code": "erin_recommends",
+          "value": "1"
+        },
+        {
+          "attribute_code": "new",
+          "value": "1"
+        },
+        {
+          "attribute_code": "sale",
+          "value": "0"
+        }
+      ]
+    }
+  ],
+  "search_criteria": {
+    "filter_groups": [
+      {
+        "filters": [
+          {
+            "field": "category_id",
+            "value": "23",
+            "condition_type": "eq"
+          }
+        ]
+      }
+    ],
+    "page_size": 1000,
+    "current_page": 1
+  },
+  "total_count": 186
+}

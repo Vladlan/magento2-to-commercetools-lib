@@ -1,0 +1,73 @@
+[
+  {
+    "id": "3b81407e-3c96-45c8-ad10-036735868aa9",
+    "name": "Pants",
+    "description": "Pants",
+    "classifier": "Complex",
+    "attributes": [
+      {
+        "name": "size",
+        "label": {
+          "en-US": "Size"
+        },
+        "inputTip": {
+          "en-US": "Size"
+        },
+        "isRequired": true,
+        "type": {
+          "name": "enum",
+          "values": [
+            {
+              "key": "Small",
+              "label": "Small"
+            },
+            {
+              "key": "Medium",
+              "label": "Medium"
+            },
+            {
+              "key": "Large",
+              "label": "Large"
+            }
+          ]
+        },
+        "attributeConstraint": "None",
+        "isSearchable": true,
+        "inputHint": "SingleLine",
+        "displayGroup": "Other"
+      },
+      {
+        "name": "color",
+        "label": {
+          "en-US": "Color"
+        },
+        "inputTip": {
+          "en-US": "Color"
+        },
+        "isRequired": false,
+        "type": {
+          "name": "enum",
+          "values": [
+            {
+              "key": "Blue",
+              "label": "Blue"
+            },
+            {
+              "key": "Black",
+              "label": "Black"
+            },
+            {
+              "key": "White",
+              "label": "White"
+            }
+          ]
+        },
+        "attributeConstraint": "None",
+        "isSearchable": true,
+        "inputHint": "SingleLine",
+        "displayGroup": "Other"
+      }
+    ],
+    "key": "pants"
+  }
+]

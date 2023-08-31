@@ -1,0 +1,364 @@
+[
+  {
+    "id": "834eec3c-b3aa-4a84-9f5f-5e0f683ddc82",
+    "version": 2,
+    "productType": {
+      "typeId": "product-type",
+      "id": "3b81407e-3c96-45c8-ad10-036735868aa9"
+    },
+    "masterData": {
+      "current": {
+        "name": {
+          "en-US": "Sample Skinny Jeans"
+        },
+        "categories": [
+          {
+            "typeId": "category",
+            "id": "60cf3a7a-6f00-4a0a-96b7-f7690505282b"
+          }
+        ],
+        "categoryOrderHints": {},
+        "slug": {
+          "en-US": "sample-skinny-jeans"
+        },
+        "masterVariant": {
+          "id": 1,
+          "sku": "396594",
+          "key": "396594",
+          "prices": [
+            {
+              "id": "168d2b14-c421-4909-ba6c-10b995ca5b47",
+              "value": {
+                "type": "centPrecision",
+                "currencyCode": "EUR",
+                "centAmount": 4999,
+                "fractionDigits": 2
+              },
+              "country": "DE",
+              "discounted": {
+                "value": {
+                  "type": "centPrecision",
+                  "currencyCode": "EUR",
+                  "centAmount": 4499,
+                  "fractionDigits": 2
+                },
+                "discount": {
+                  "typeId": "product-discount",
+                  "id": "48ecff35-55b4-464e-851a-34fdf35e5ac5"
+                }
+              }
+            },
+            {
+              "id": "587050a7-8aaf-4c64-aa55-fb8d4bfd4fd0",
+              "value": {
+                "type": "centPrecision",
+                "currencyCode": "USD",
+                "centAmount": 4500,
+                "fractionDigits": 2
+              },
+              "country": "US",
+              "discounted": {
+                "value": {
+                  "type": "centPrecision",
+                  "currencyCode": "USD",
+                  "centAmount": 4050,
+                  "fractionDigits": 2
+                },
+                "discount": {
+                  "typeId": "product-discount",
+                  "id": "48ecff35-55b4-464e-851a-34fdf35e5ac5"
+                }
+              }
+            }
+          ],
+          "images": [
+            {
+              "url": "https://607c34ad0a5bf735fdf7-ec12c9005026a0c273dadf2c3ac4444b.ssl.cf3.rackcdn.com/skinny-QJz4Jcme.jpeg",
+              "dimensions": {
+                "w": 183,
+                "h": 275
+              }
+            }
+          ],
+          "attributes": [
+            {
+              "name": "fit",
+              "value": {
+                "key": "Slim",
+                "label": "Slim"
+              }
+            },
+            {
+              "name": "size",
+              "value": {
+                "key": "Medium",
+                "label": "Medium"
+              }
+            }
+          ],
+          "assets": []
+        },
+        "variants": [
+          {
+            "id": 2,
+            "sku": "349700",
+            "key": "349700",
+            "prices": [
+              {
+                "id": "83ac6861-b4d0-4b71-8852-921752babc71",
+                "value": {
+                  "type": "centPrecision",
+                  "currencyCode": "EUR",
+                  "centAmount": 4999,
+                  "fractionDigits": 2
+                },
+                "country": "DE",
+                "discounted": {
+                  "value": {
+                    "type": "centPrecision",
+                    "currencyCode": "EUR",
+                    "centAmount": 4499,
+                    "fractionDigits": 2
+                  },
+                  "discount": {
+                    "typeId": "product-discount",
+                    "id": "48ecff35-55b4-464e-851a-34fdf35e5ac5"
+                  }
+                }
+              },
+              {
+                "id": "460a6664-7d70-4c49-bee8-b0a9c01805b5",
+                "value": {
+                  "type": "centPrecision",
+                  "currencyCode": "USD",
+                  "centAmount": 4500,
+                  "fractionDigits": 2
+                },
+                "country": "US",
+                "discounted": {
+                  "value": {
+                    "type": "centPrecision",
+                    "currencyCode": "USD",
+                    "centAmount": 4050,
+                    "fractionDigits": 2
+                  },
+                  "discount": {
+                    "typeId": "product-discount",
+                    "id": "48ecff35-55b4-464e-851a-34fdf35e5ac5"
+                  }
+                }
+              }
+            ],
+            "images": [
+              {
+                "url": "https://607c34ad0a5bf735fdf7-ec12c9005026a0c273dadf2c3ac4444b.ssl.cf3.rackcdn.com/pants-qbuZJH9h.jpeg",
+                "dimensions": {
+                  "w": 100,
+                  "h": 150
+                }
+              }
+            ],
+            "attributes": [
+              {
+                "name": "size",
+                "value": {
+                  "key": "Large",
+                  "label": "Large"
+                }
+              },
+              {
+                "name": "fit",
+                "value": {
+                  "key": "Slim",
+                  "label": "Slim"
+                }
+              }
+            ],
+            "assets": []
+          }
+        ],
+        "searchKeywords": {}
+      },
+      "staged": {
+        "name": {
+          "en-US": "Sample Skinny Jeans"
+        },
+        "categories": [
+          {
+            "typeId": "category",
+            "id": "60cf3a7a-6f00-4a0a-96b7-f7690505282b"
+          }
+        ],
+        "categoryOrderHints": {},
+        "slug": {
+          "en-US": "sample-skinny-jeans"
+        },
+        "masterVariant": {
+          "id": 1,
+          "sku": "396594",
+          "key": "396594",
+          "prices": [
+            {
+              "id": "168d2b14-c421-4909-ba6c-10b995ca5b47",
+              "value": {
+                "type": "centPrecision",
+                "currencyCode": "EUR",
+                "centAmount": 4999,
+                "fractionDigits": 2
+              },
+              "country": "DE",
+              "discounted": {
+                "value": {
+                  "type": "centPrecision",
+                  "currencyCode": "EUR",
+                  "centAmount": 4499,
+                  "fractionDigits": 2
+                },
+                "discount": {
+                  "typeId": "product-discount",
+                  "id": "48ecff35-55b4-464e-851a-34fdf35e5ac5"
+                }
+              }
+            },
+            {
+              "id": "587050a7-8aaf-4c64-aa55-fb8d4bfd4fd0",
+              "value": {
+                "type": "centPrecision",
+                "currencyCode": "USD",
+                "centAmount": 4500,
+                "fractionDigits": 2
+              },
+              "country": "US",
+              "discounted": {
+                "value": {
+                  "type": "centPrecision",
+                  "currencyCode": "USD",
+                  "centAmount": 4050,
+                  "fractionDigits": 2
+                },
+                "discount": {
+                  "typeId": "product-discount",
+                  "id": "48ecff35-55b4-464e-851a-34fdf35e5ac5"
+                }
+              }
+            }
+          ],
+          "images": [
+            {
+              "url": "https://607c34ad0a5bf735fdf7-ec12c9005026a0c273dadf2c3ac4444b.ssl.cf3.rackcdn.com/skinny-QJz4Jcme.jpeg",
+              "dimensions": {
+                "w": 183,
+                "h": 275
+              }
+            }
+          ],
+          "attributes": [
+            {
+              "name": "fit",
+              "value": {
+                "key": "Slim",
+                "label": "Slim"
+              }
+            },
+            {
+              "name": "size",
+              "value": {
+                "key": "Medium",
+                "label": "Medium"
+              }
+            }
+          ],
+          "assets": []
+        },
+        "variants": [
+          {
+            "id": 2,
+            "sku": "349700",
+            "key": "349700",
+            "prices": [
+              {
+                "id": "83ac6861-b4d0-4b71-8852-921752babc71",
+                "value": {
+                  "type": "centPrecision",
+                  "currencyCode": "EUR",
+                  "centAmount": 4999,
+                  "fractionDigits": 2
+                },
+                "country": "DE",
+                "discounted": {
+                  "value": {
+                    "type": "centPrecision",
+                    "currencyCode": "EUR",
+                    "centAmount": 4499,
+                    "fractionDigits": 2
+                  },
+                  "discount": {
+                    "typeId": "product-discount",
+                    "id": "48ecff35-55b4-464e-851a-34fdf35e5ac5"
+                  }
+                }
+              },
+              {
+                "id": "460a6664-7d70-4c49-bee8-b0a9c01805b5",
+                "value": {
+                  "type": "centPrecision",
+                  "currencyCode": "USD",
+                  "centAmount": 4500,
+                  "fractionDigits": 2
+                },
+                "country": "US",
+                "discounted": {
+                  "value": {
+                    "type": "centPrecision",
+                    "currencyCode": "USD",
+                    "centAmount": 4050,
+                    "fractionDigits": 2
+                  },
+                  "discount": {
+                    "typeId": "product-discount",
+                    "id": "48ecff35-55b4-464e-851a-34fdf35e5ac5"
+                  }
+                }
+              }
+            ],
+            "images": [
+              {
+                "url": "https://607c34ad0a5bf735fdf7-ec12c9005026a0c273dadf2c3ac4444b.ssl.cf3.rackcdn.com/pants-qbuZJH9h.jpeg",
+                "dimensions": {
+                  "w": 100,
+                  "h": 150
+                }
+              }
+            ],
+            "attributes": [
+              {
+                "name": "size",
+                "value": {
+                  "key": "Large",
+                  "label": "Large"
+                }
+              },
+              {
+                "name": "fit",
+                "value": {
+                  "key": "Slim",
+                  "label": "Slim"
+                }
+              }
+            ],
+            "assets": []
+          }
+        ],
+        "searchKeywords": {}
+      },
+      "published": true,
+      "hasStagedChanges": false
+    },
+    "key": "skinny_jeans",
+    "taxCategory": {
+      "typeId": "tax-category",
+      "id": "5772c20f-f739-462f-8baa-5487e4e92358"
+    },
+    "lastVariantId": 2
+  }
+]
