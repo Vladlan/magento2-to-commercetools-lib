@@ -2,6 +2,7 @@ import 'dotenv/config'
 import { uploadFileToS3ByUrl } from '../lib/s3/upload-file-to-s3-by-url'
 import { MAGENTO_IMGS_URL } from '../constants/magento'
 import { getProduct } from '../lib/magento/get-product'
+import { getProductAttributeOptions } from '../lib/magento/get-product-attributes-options'
 
 const S3_URL = process.env.S3_URL as string
 const S3_BUCKET_NAME = process.env.S3_BUCKET_NAME as string
@@ -35,7 +36,7 @@ async function magentoProductToCommercetools(
       return el.attribute_code === 'description'
     }
   )
-  const MAGENTO_ATTRIBUTES_MAP = getMagentoProductAttributesMap()
+  const MAGENTO_ATTRIBUTES_MAP = await getMagentoProductAttributesMap()
 
   const variants = await Promise.all(
     magentoProduct.variants.map(async (variant: any) => {
@@ -77,7 +78,7 @@ async function magentoProductToCommercetools(
         attributes: ctProductAttributes.map(
           (el: { attribute_code: string | number; value: string | number }) => {
             return {
-              name: capitalizeFLetter(`${el.attribute_code}`),
+              name: capitalizeFirstLetter(`${el.attribute_code}`),
               value: {
                 key: MAGENTO_ATTRIBUTES_MAP[el.attribute_code][el.value],
                 label: MAGENTO_ATTRIBUTES_MAP[el.attribute_code][el.value],
@@ -144,6 +145,7 @@ function groupProductsByConfigurableProduct(products: any[]) {
     if (productsBySku[baseSku]) {
       productsBySku[baseSku].variants.push(product)
     } else {
+      console.log('Products without sku: ')
       console.log('product.sku: ', product.sku)
       console.log('product.type_id: ', product.type_id)
     }
@@ -159,162 +161,29 @@ function groupProductsByConfigurableProduct(products: any[]) {
   return productsBySku
 }
 
-// TODO: replace with http call
-function getMagentoProductAttributesMap(): any {
-  const MAGENTO_SIZE_ATTRIBUTES_MAP = [
-    {
-      label: ' ',
-      value: '',
-    },
-    {
-      label: '55 cm',
-      value: '91',
-    },
-    {
-      label: 'XS',
-      value: '166',
-    },
-    {
-      label: '65 cm',
-      value: '92',
-    },
-    {
-      label: 'S',
-      value: '167',
-    },
-    {
-      label: '75 cm',
-      value: '93',
-    },
-    {
-      label: 'M',
-      value: '168',
-    },
-    {
-      label: '6 foot',
-      value: '94',
-    },
-    {
-      label: 'L',
-      value: '169',
-    },
-    {
-      label: '8 foot',
-      value: '95',
-    },
-    {
-      label: 'XL',
-      value: '170',
-    },
-    {
-      label: '10 foot',
-      value: '96',
-    },
-    {
-      label: '28',
-      value: '171',
-    },
-    {
-      label: '29',
-      value: '172',
-    },
-    {
-      label: '30',
-      value: '173',
-    },
-    {
-      label: '31',
-      value: '174',
-    },
-    {
-      label: '32',
-      value: '175',
-    },
-    {
-      label: '33',
-      value: '176',
-    },
-    {
-      label: '34',
-      value: '177',
-    },
-    {
-      label: '36',
-      value: '178',
-    },
-    {
-      label: '38',
-      value: '179',
-    },
-  ].reduce((acc: any, curr: any) => {
-    acc[curr.value] = curr.label
-    return acc
-  }, {})
+let productAttributesCache: any = null
 
-  const MAGENTO_COLOR_ATTRIBUTES_MAP = [
-    {
-      label: ' ',
-      value: '',
-    },
-    {
-      label: 'Black',
-      value: '49',
-    },
-    {
-      label: 'Blue',
-      value: '50',
-    },
-    {
-      label: 'Brown',
-      value: '51',
-    },
-    {
-      label: 'Gray',
-      value: '52',
-    },
-    {
-      label: 'Green',
-      value: '53',
-    },
-    {
-      label: 'Lavender',
-      value: '54',
-    },
-    {
-      label: 'Multi',
-      value: '55',
-    },
-    {
-      label: 'Orange',
-      value: '56',
-    },
-    {
-      label: 'Purple',
-      value: '57',
-    },
-    {
-      label: 'Red',
-      value: '58',
-    },
-    {
-      label: 'White',
-      value: '59',
-    },
-    {
-      label: 'Yellow',
-      value: '60',
-    },
-  ].reduce((acc: any, curr: any) => {
-    acc[curr.value] = curr.label
-    return acc
-  }, {})
+async function getMagentoProductAttributesMap(): Promise<any> {
+  if (productAttributesCache) return productAttributesCache
+  const rawResults = await Promise.all([
+    getProductAttributeOptions('size'),
+    getProductAttributeOptions('color'),
+  ])
 
-  return {
-    size: MAGENTO_SIZE_ATTRIBUTES_MAP,
-    color: MAGENTO_COLOR_ATTRIBUTES_MAP,
+  const [sizeAttributes, colorAttributes] = rawResults.map((el) =>
+    el.reduce((acc: any, curr: any) => {
+      acc[curr.value] = curr.label
+      return acc
+    }, {})
+  )
+
+  productAttributesCache = {
+    size: sizeAttributes,
+    color: colorAttributes,
   }
+  return productAttributesCache
 }
 
-function capitalizeFLetter(str: string) {
+function capitalizeFirstLetter(str: string) {
   return str[0].toUpperCase() + str.slice(1)
 }

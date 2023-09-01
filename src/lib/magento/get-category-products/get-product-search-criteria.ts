@@ -17,6 +17,7 @@ export const getProductSearchCriteria = (
     })
   }
 
+  // TODO: add support for pagination to migrate huge catalogs
   return {
     searchCriteria: {
       filter_groups: [
@@ -24,7 +25,7 @@ export const getProductSearchCriteria = (
           filters,
         },
       ],
-      pageSize: 1000,
+      pageSize: 10_000,
       currentPage: 1,
     },
   }

@@ -78,7 +78,6 @@ async function createCategoryComtools(data: any) {
   if (cachedValue) return cachedValue
 
   const res = await createCategory(data)
-  console.log('createCategory: ', res)
   await saveToFile(res || data, fileName)
   return res
 }
@@ -89,7 +88,6 @@ async function createProductComtools(data: any) {
   if (cachedValue) return cachedValue
 
   const res = await createProduct(data)
-  console.log('createProduct: ', res)
   await saveToFile(res || data, fileName)
   return res
 }
@@ -99,7 +97,6 @@ async function createProductTypeComtools(data: any) {
   if (cachedValue) return cachedValue
 
   const res = await createProductType(data)
-  console.log('createProductType: ', res)
   if (!res) {
     console.log('Failed to create productType: ', data)
   }

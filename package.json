@@ -29,6 +29,7 @@
     "cm-get-categories": "ts-node scripts/ct-get-categories.ts",
     "cm-get-products": "ts-node scripts/ct-get-products.ts",
     "cm-get-product-types": "ts-node scripts/ct-get-product-types.ts",
+    "magento-get-product-attribute-options": "ts-node scripts/magento-get-product-attribute-options.ts",
     "map-categories": "ts-node scripts/map-magento-categories-to-comtools.ts",
     "map-product-types": "cross-env NODE_TLS_REJECT_UNAUTHORIZED=0 ts-node scripts/map-magento-active-categories-to-comtools-product-types.ts",
     "map-products": "cross-env NODE_TLS_REJECT_UNAUTHORIZED=0 ts-node scripts/map-magento-product-to-comtools.ts",
